@@ -1,7 +1,10 @@
 
 Kewen Gu
+
 Project 3
+
 CS 3013
+
 Oct 2, 2015
 
 Introduction:
@@ -12,9 +15,9 @@ This is a multi-thread programming assignment. The analogy for this project is l
 Instruction:
 -------------
 
-To compile the program maze.c:
+* To compile the program maze.c:
 	make
-To run the program maze:
+* To run the program maze:
 	./maze <number of rats> <travesing algorithm>
 
 
