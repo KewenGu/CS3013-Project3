@@ -1,9 +1,5 @@
 
-Kewen Gu
-
-Project 3
-
-CS 3013
+Kewen Gu, Project 3, CS 3013
 
 Oct 2, 2015
 
